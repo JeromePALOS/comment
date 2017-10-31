@@ -34,7 +34,7 @@
 	
 		<section>
 			<div class="comment-header">
-				<div>Nom Prenom</div>
+				<div>Nom Prenom oui</div>
 				<div>18 juillet 2017</div>
 			</div>
 			
